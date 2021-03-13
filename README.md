@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jamesp0200 a computer science student in 2nd year of university.
+- 🌱 I’m currently learning C++
+- 📫 How to reach me - jpalmer0200@gmail.com
